@@ -1,0 +1,12 @@
+Find and list 10 VS Code extensions that are useful for a Javascript development project.
+Ans)
+1) Javascript ES6 Snippets
+2) Prettier Code Formatter
+3) Live Share
+4) Live Server
+5) REST Client
+6) ESLint
+7) Babel
+8) Chrome Debugger
+9) Quokka.js
+10) GitLens
